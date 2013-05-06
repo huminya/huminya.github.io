@@ -20,3 +20,5 @@ tags: [git, github, installation]
 8. 提交git push -u origin master，输入用户名（邮箱也可以）和密码
 9. 刷新页面，可以看到更新文件
 10. 访问yourname.github.io，即可看到编译成功的页面
+
+### 创建于 2013-5-6，23：05
