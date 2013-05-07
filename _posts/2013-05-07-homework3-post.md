@@ -3,7 +3,7 @@ layout: post
 title: "3，如何提交代码到github上？"
 description: "如何提交代码到github上"
 category: homework
-tags: [commit code github]
+tags: [commit, code, github]
 ---
 {% include JB/setup %}
 

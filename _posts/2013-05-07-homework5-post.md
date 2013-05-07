@@ -3,7 +3,7 @@ layout: post
 title: "5，如何在本地部署jekyll并正确运行？"
 description: "在本地部署jekyll并正确运行"
 category: homework
-tags: [install jekyll]
+tags: [install, jekyll]
 ---
 {% include JB/setup %}
 
